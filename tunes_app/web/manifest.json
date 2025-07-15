@@ -1,6 +1,6 @@
 {
-    "name": "toku",
-    "short_name": "toku",
+    "name": "tunes_app",
+    "short_name": "tunes_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

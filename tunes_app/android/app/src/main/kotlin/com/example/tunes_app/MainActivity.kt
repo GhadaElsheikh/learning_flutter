@@ -1,4 +1,4 @@
-package com.example.toku
+package com.example.tunes_app
 
 import io.flutter.embedding.android.FlutterActivity
 

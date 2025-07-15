@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "toku" "\0"
+            VALUE "FileDescription", "tunes_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "toku" "\0"
+            VALUE "InternalName", "tunes_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "toku.exe" "\0"
-            VALUE "ProductName", "toku" "\0"
+            VALUE "OriginalFilename", "tunes_app.exe" "\0"
+            VALUE "ProductName", "tunes_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
